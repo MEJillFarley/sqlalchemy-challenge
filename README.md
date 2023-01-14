@@ -27,7 +27,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 7. Use Pandas to print the summary statistics for the precipitation data.
 
-![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/Climate Images/Prcp_Matplat_Plot_Chart_Module_10.png)
+![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/Climate_Images/Prcp_Matplat_Plot_Chart_Module_10.png)
 
 
 Climate Images/Prcp_Matplat_Plot_Chart_Module_10.png
@@ -51,7 +51,7 @@ Climate Images/Prcp_Matplat_Plot_Chart_Module_10.png
         +Query the previous 12 months of TOBS data for that station.
         +Plot the results as a histogram with `bins=12`, as the following image shows:
 
-![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/Climate_Images/Active_Temp_in_One_Year_Module_10.png)
+![This is an image]([https://github.com/MEJillFarley/sqlalchemy-challenge/Climate_Images/Active_Temp_in_One_Year_Module_10.png](https://github.com/MEJillFarley/sqlalchemy-challenge/blob/a802fd00be9792fc2b76b941b3d99a7313fe8bac/Climate%20Images/Active_Temp_in_One_Year_Module_10.png))
 
         
         #### Part 2: Design Your Climate App
