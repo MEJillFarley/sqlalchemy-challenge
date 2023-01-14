@@ -27,6 +27,8 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 7. Use Pandas to print the summary statistics for the precipitation data.
 
+![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/Climate_Images/Active_Temp_in_One_Year_Module_10.png)
+
    Station Analysis
 
    1. Design a query to calculate the total number of stations in the dataset.
