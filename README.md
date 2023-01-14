@@ -27,7 +27,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 7. Use Pandas to print the summary statistics for the precipitation data.
 
-![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/Climate_Images/Prcp_Matplat_Plot_Chart_Module_10.png)
+![This is an image](https://github.com/MEJillFarley/sqlalchemy-challenge/blob/main/Climate%20Images/Prcp_Matplat_Plot_Chart_Module_10.png?raw=true)
 
 
 Climate Images/Prcp_Matplat_Plot_Chart_Module_10.png
